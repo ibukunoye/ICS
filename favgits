@@ -1,5 +1,7 @@
 Modbus GET- Perl
 https://github.com/sourceperl/mbtget.git
+https://sourceforge.net/projects/modbuspal/files/modbuspal/RC%20version%201.6b/
+java -jar xyz.jar
 
 plcscan
 https://code.google.com/archive/p/plcscan/source/default/source
